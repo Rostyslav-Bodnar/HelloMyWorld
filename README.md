@@ -7,7 +7,8 @@
 
 # Obtain
   On the panel on the right side of the screen, you can see the modes: Game, Obtain, Build. The Obtain mode allows you to select a zone on the map and select resources for mining.
-  
+  ![Obtain](https://github.com/user-attachments/assets/2da1f8a7-d1b6-461a-9699-b1848c9b5938)
+
 # Generation
   This generate land using Perlin Noise. After land generation, system generate resources like Wood(Capsules) and Stone(Cubes).
   ![Generation](https://github.com/user-attachments/assets/c978e540-f064-4832-9792-97495aac1ec0)
